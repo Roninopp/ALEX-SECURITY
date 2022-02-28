@@ -63,17 +63,17 @@ from alex robot.modules.helper_funcs.misc import paginate_modules
 from alex robot.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 Hey There, My Name is ALEX ROBOT
+👋 Hey There, My Name is fantastic
 I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Natsuki News 🙋‍♂️", url="https://t.me/alex_userbot" 
+            text="Natsuki News 🙋‍♂️", url="https://https://t.me/RONIN_Fighters_Fd" 
         ),
         InlineKeyboardButton(
-            text="Support Group 💬", url="alex_userbot_support"
+            text="Support Group 💬", url="@Ronin_Fighters_Fd"
         ),
     ],
     [
@@ -92,7 +92,7 @@ buttons = [
     ],
 ]
 
-Alex_IMG = "https://telegra.ph/file/4597a70c7d7505f557c24.jpg"
+Alex_IMG = "https://https://te.legra.ph/file/9012a958e07362727ae19.jpg.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
